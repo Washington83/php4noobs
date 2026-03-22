@@ -73,8 +73,8 @@ class Gato extends Animal {
 $animal1 = new Cachorro();
 $animal2 = new Gato();
 
-$animal1->emitirSom() . PHP_EOL; // Au au
-$animal2->emitirSom() . PHP_EOL; // Miau
+echo $animal1->emitirSom() . PHP_EOL;
+echo $animal2->emitirSom() . PHP_EOL;
 ```
 
 ---
