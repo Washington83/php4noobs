@@ -9,7 +9,7 @@ Você chama **o mesmo método**, mas o resultado muda.
 
 ---
 
-##  Por que usar?
+## Por que usar?
 
 Para evitar vários `if/else` e deixar o código:
 
